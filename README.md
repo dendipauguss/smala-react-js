@@ -2,9 +2,10 @@
 Cara Pakai Cepat
 ---------------------------------------------------------------
 1) Buat proyek React (contoh Vite):
+```
 npm create vite@latest fall-dashboard -- --template react
 cd fall-dashboard
-
+```
 
 2) Install dependency yang dipakai komponen ini:
 npm i recharts framer-motion lucide-react
