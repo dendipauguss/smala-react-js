@@ -1,5 +1,5 @@
-/* ------------------------------------------------------------
-README — Cara Pakai Cepat
+------------------------------------------------------------
+Cara Pakai Cepat
 ---------------------------------------------------------------
 1) Buat proyek React (contoh Vite):
 npm create vite@latest fall-dashboard -- --template react
@@ -64,6 +64,3 @@ WebSocketsServer webSocket = WebSocketsServer(81);
 float readAx(){ return 0.02; }
 float readAy(){ return -0.98; }
 float readAz(){ return 0.05; }
-
-
-*/
